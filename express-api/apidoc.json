@@ -1,0 +1,9 @@
+{
+    "name": "doc",
+    "version": "0.1.0",
+    "description": "健身房管理系统接口文档",
+    "apidoc": {
+      "title": "车车",
+      "url" : "https://127.0.0.1:27017"
+    }
+  }
